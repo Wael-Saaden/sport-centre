@@ -1,0 +1,6 @@
+com\sportscenter\gateway\service\AuthService.class
+com\sportscenter\gateway\config\SecurityConfig.class
+com\sportscenter\gateway\ApiGatewayApplication.class
+com\sportscenter\gateway\security\JwtAuthenticationFilter.class
+com\sportscenter\gateway\controller\AuthController.class
+com\sportscenter\gateway\security\JwtUtil.class
